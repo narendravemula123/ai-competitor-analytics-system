@@ -42,3 +42,13 @@ It simulates intelligent decision-support behavior using structured data pipelin
 ---
 
 ## Project Structure
+ai-competitor-analytics-system/
+## Project Structure
+
+ai-competitor-analytics-system/
+- data/
+- src/
+- output/
+- README.md
+- requirements.txt
+- .gitignore
